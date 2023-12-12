@@ -9,7 +9,7 @@ function Social() {
                 <i className="uil uil-instagram"></i>
             </a>
 
-            <a href="https://dribbble.com/" 
+            <a href="https://twitter.com/" 
             className="home__social-icon" 
             target="_blank">
                 <i className="bx bxl-twitter"></i>
