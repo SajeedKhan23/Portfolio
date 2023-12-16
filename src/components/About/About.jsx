@@ -22,7 +22,7 @@ function About() {
                     demonstrating expertise in dynamic UI and innovative projects.
                     </p>
 
-                    <a download="Sajeed Resume" href={CV} className="button button--flex">
+                    <a download="Sajeed_Resume.pdf" href={CV} className="button button--flex">
                         Download CV
                         <svg
                             class="button__icon"
