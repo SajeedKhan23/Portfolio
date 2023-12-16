@@ -1,7 +1,7 @@
 import React from 'react'
 import "./About.css";
 import AboutImg from "../../assets/My pic 7.jpg";
-import CV from "../../assets/Resume (Photo + Link).pdf";
+import CV from "../../assets/Resume (Photo + Link).jpg";
 import Info from './Info';
 
 function About() {
@@ -22,7 +22,7 @@ function About() {
                     demonstrating expertise in dynamic UI and innovative projects.
                     </p>
 
-                    <a download="Sajeed_Resume.pdf" href={CV} className="button button--flex">
+                    <a download="Sajeed_Resume.jpg" href={CV} className="button button--flex">
                         Download CV
                         <svg
                             class="button__icon"
